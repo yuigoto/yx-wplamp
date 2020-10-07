@@ -1,0 +1,9 @@
+.data/
+build/
+dist/
+mysql/
+public/
+review/
+scratch/
+
+docker-compose.yml
