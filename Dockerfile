@@ -1,4 +1,4 @@
-FROM wordpress:php7.4
+FROM wordpress:php7.4-fpm
 
 RUN apt-get update -y \
   && apt-get install -y \
